@@ -1,0 +1,6 @@
+{
+  "name": "Lead Assignment CRM - Phase 1 Foundation",
+  "description": "Production foundation, connectivity, and persistence testing suite for Lead Assignment CRM with Supabase and Vercel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
